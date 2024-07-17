@@ -1,1 +1,1 @@
-![Day-1](../Challenges/Day-2.PNG)
+![Day-2](../Challenges/Day-2.PNG)
