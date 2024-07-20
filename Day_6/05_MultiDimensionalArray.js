@@ -1,3 +1,4 @@
+/* https://www.freecodecamp.org/news/javascript-2d-arrays/ */
 // Example of 2D Array
 const arr = [
   [0, 1, 2],
@@ -17,5 +18,5 @@ let MathScore = [
   ["Ben Liard", 16, 51, "B"],
 ];
 
-console.log(MathScore[2][0]);
-console.table(MathScore);
+console.log(MathScore[2][3]);
+/* arrayName[rowIndex][columnIndex] */
