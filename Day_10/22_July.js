@@ -54,6 +54,10 @@ selectElement.addEventListener("change", (e) => {
   paragraphElement.textContent = e.target.value;
 });
 
-// Task 9:
+// Task 9: Add a click event listener to a list that logs the text content of the clicked list item using event delegation
+const listElement = document.querySelector(".orderlist");
+listElement.addEventListener("click", (event) => {
+  console.log(event.target.textContent);
+});
 
-// Task 10:
+// Task 10: Add an event listener to a parent element that listens for events from dynamically added child elements
