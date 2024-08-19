@@ -1,7 +1,7 @@
 // Using the module here
-// const { addTwoNumber, person } = require("./25_July");
-const { addTwoNumber, addTwoSubtract } = require("./02_defaultNamedDefault");
-const factorial = require ("./02_defaultExports")
+// const { addTwoNumber, person } = require("./Activity-1/01.js");
+const { addTwoNumber, addTwoSubtract } = require("./Activity-2/01.js");
+const factorial = require ("./Activity-2/02.js")
 
 
 console.log(factorial(5));

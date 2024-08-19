@@ -15,7 +15,7 @@ const getCounterValue = () => {
 const myCounter = getCounterValue();
 
 myCounter.increment();
-console.log(myCounter.getValue()); // Output: 1
+console.log(myCounter.getValue()); 
 
 myCounter.increment();
-console.log(myCounter.getValue()); // Output: 2
+console.log(myCounter.getValue());
